@@ -24,7 +24,7 @@ The Book Library Web Application is a full-stack web application designed to man
 
 ### Database (MySQL):
 1. Ensure that MySQL is installed and running on your system.
-2. Create a new database named `book_library`.
+2. Create a new database named `bookLibrary`.
 3. Update the database connection settings in the `application.properties` file if necessary.
 
 ### Frontend (React):
