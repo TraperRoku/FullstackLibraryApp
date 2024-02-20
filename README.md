@@ -37,7 +37,11 @@ Once the backend and frontend servers are running, you can access the applicatio
 
 ![image](https://github.com/TraperRoku/FullstackLibraryApp/assets/119821555/1577a5da-d033-4a7e-87e1-26c61809c779)
 
-![image](https://github.com/TraperRoku/FullstackLibraryApp/assets/119821555/4090d356-7434-4e6b-accc-a85794644027)
+![image](https://github.com/TraperRoku/FullstackLibraryApp/assets/119821555/f731d49e-76b7-4424-ad35-909075ce4ce1)
+
+![image](https://github.com/TraperRoku/FullstackLibraryApp/assets/119821555/17033e25-2586-44d2-9b87-ecf6a9b157d1)
+
+
 
 
 
